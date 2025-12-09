@@ -16,4 +16,5 @@ Para ejecutar:
 1. Abrir la carpeta en VS Code (File > Open Folder).
 2. Esperar a que Maven descargue dependencias.
 3. Compilar el proyecto (paleta de comandos: "Maven: package").
-4. Con la extensión Tomcat for Java, desplegar el WAR o la carpeta en Tomcat 9.
+4. Con la extensión Tomcat, desplegar el WAR o la carpeta en Tomcat 9.
+5. Debes estar al tant ode desplegar Apache
