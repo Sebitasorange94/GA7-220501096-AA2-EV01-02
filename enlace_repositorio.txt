@@ -1,0 +1,3 @@
+Repositorio del proyecto IPS Ausentismos - Módulo de Colaboradores (Java + JDBC):
+
+https://github.com/TU_USUARIO/ips-ausentismos-java
